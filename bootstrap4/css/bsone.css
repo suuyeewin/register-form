@@ -1,0 +1,17 @@
+body
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    background-color: rgb(250, 246, 241);
+}
+.container
+{
+    background-color: white;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.logo
+{
+    padding: 20px;
+}
+
